@@ -1,5 +1,5 @@
 ## React Customer Management System
-This code for study for reaact
+This code is a study for reaact
 이 코드들은 리엑트 학습을 위한것 입니다.
 
 # Getting Started with Create React App
